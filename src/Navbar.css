@@ -1,0 +1,19 @@
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 10vh;
+    box-shadow: rgba(50, 50, 93, 0.1) 0 4px 4px -2px;
+}
+
+.logo_name {
+    font-size: 20px;
+}
+
+.nav-symbol {
+    list-style: none;
+    display: flex;
+    gap: 10px;
+}
+
